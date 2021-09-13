@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://talha-irshad.github.io/csb-0lnhr/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://talha-irshad.github.io/csb-0lnhr/static/js/main.6fbd2f8a.chunk.js",
+    "main.js.map": "https://talha-irshad.github.io/csb-0lnhr/static/js/main.6fbd2f8a.chunk.js.map",
+    "runtime-main.js": "https://talha-irshad.github.io/csb-0lnhr/static/js/runtime-main.34c001f8.js",
+    "runtime-main.js.map": "https://talha-irshad.github.io/csb-0lnhr/static/js/runtime-main.34c001f8.js.map",
+    "static/js/2.c65b6eb5.chunk.js": "https://talha-irshad.github.io/csb-0lnhr/static/js/2.c65b6eb5.chunk.js",
+    "static/js/2.c65b6eb5.chunk.js.map": "https://talha-irshad.github.io/csb-0lnhr/static/js/2.c65b6eb5.chunk.js.map",
+    "index.html": "https://talha-irshad.github.io/csb-0lnhr/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://talha-irshad.github.io/csb-0lnhr/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.c65b6eb5.chunk.js.LICENSE.txt": "https://talha-irshad.github.io/csb-0lnhr/static/js/2.c65b6eb5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34c001f8.js",
+    "static/js/2.c65b6eb5.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.6fbd2f8a.chunk.js"
+  ]
+}
